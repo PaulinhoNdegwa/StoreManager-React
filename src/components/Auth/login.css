@@ -1,0 +1,7 @@
+#login-form {
+    width: 60%;
+    margin: auto;
+    border: 1px solid grey;
+    padding: 40px;
+    box-shadow: 5px 5px 10px;
+}
